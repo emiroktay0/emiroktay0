@@ -1,6 +1,8 @@
 ## Hi there, I'm Emir Oktay 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emiroktay0)](https://github.com/anuraghazra/github-readme-stats)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=emiroktay0&show_icons=true&theme=synthwave)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emiroktay0&layout=compact&theme=synthwave)
 <!--
 **emiroktay0/emiroktay0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
